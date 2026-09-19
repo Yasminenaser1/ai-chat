@@ -36,7 +36,6 @@ export GEMINI_API_KEY="your-key"   # free key at aistudio.google.com
 uvicorn main:app --reload
 ```
 
-Then open http://127.0.0.1:8000
 
 ## Architecture
 
